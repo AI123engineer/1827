@@ -18,4 +18,4 @@ pip install jupyter notebook
 
 
 
-Make sure to open Anaconda prompt and install jupyter notebook on dl environment before coding for project.
+Make sure to open Anaconda Navigator and install jupyter notebook on dl environment before coding for project.
